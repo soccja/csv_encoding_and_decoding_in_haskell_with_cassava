@@ -48,7 +48,7 @@ cabal init
 
 > [!WARNING]
 > If you are cloning this repository, change references to `build-depends:   base ^>=4.21.0.0` in `csvdemo.cabal` to match the version of ghc you are using.  
-> (See above output from running `ghcup list`.)
+> (Running `ghcup list` will show you the base associated with the currently installed and active ghc. See above.)
 
 
 ## Edit `OpenData.hs` and `Main.hs`
