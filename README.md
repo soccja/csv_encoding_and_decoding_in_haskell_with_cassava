@@ -6,7 +6,7 @@ Cassava library demo based on https://www.stackbuilders.com/insights/csv-encodin
 
 I found [Encoding and decoding in Haskell with Cassava](https://www.stackbuilders.com/insights/csv-encoding-decoding/) to be an excellent resource but it needs some TLC to get the most from it.
 
-Issues include that the link to the open-data referenced in the article is broken.
+Issues include that the [link](https://www.data.gov/app/uploads/2016/02/opendatasites.cs)  to the open-data referenced in the article is broken.
 
 ## Obtain a copy of `opendatasites.csv`
 
@@ -69,4 +69,6 @@ cabal build
 cabal run
 ```
 
+## Other references
+- http://etorreborre.blogspot.com/2019/09/processing-csv-files-in-haskell.html
 
