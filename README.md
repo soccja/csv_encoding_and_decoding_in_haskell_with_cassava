@@ -51,6 +51,14 @@ cabal init
 > If you are cloning this repository, change references to `build-depends:   base ^>=4.21.0.0` in `csvdemo.cabal` to match the version of ghc you are using.  
 > (See above output from running `ghcup list`.)
 
+## Add library dependencies to `csvdemo.cabal`
+The following dependencies need to be added:
+- bytestring
+- cassava
+- text
+- vector
+
+
 ## Edit `OpenData.hs` and `Main.hs`
 
 Edit contents of `OpenData.hs` and `Main.hs` to match what is in this repository.
