@@ -48,7 +48,7 @@ cabal init
 > * I renamed `MyLib.hs` to `OpenData.hs` and replaced references to `MyLib` with `OpenData` in `csvdemo.caval`, `Main.hs` and `OpenData.hs`
 
 > [!WARNING]
-> If you are cloning this repository, change references to `build-depends:   base ^>=4.21.0.0` to match the version of ghc you are using
+> If you are cloning this repository, change references to `build-depends:   base ^>=4.21.0.0` in `csvdemo.cabal` to match the version of ghc you are using.  
 > (See above output from running `ghcup list`.)
 
 ## Edit `OpenData.hs` and `Main.hs`
