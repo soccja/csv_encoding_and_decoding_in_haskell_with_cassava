@@ -63,5 +63,10 @@ The following dependencies need to be added:
 
 Edit contents of `OpenData.hs` and `Main.hs` to match what is in this repository.
 
+## Run the demo
+```
+cabal build
+cabal run
+```
 
 
