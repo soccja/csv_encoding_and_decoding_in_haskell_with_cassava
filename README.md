@@ -2,15 +2,15 @@
 
 Cassava library demo based on <https://www.stackbuilders.com/insights/csv-encoding-decoding/>
 
-## Preamble
+## 1. Preamble
 
 I found [Encoding and decoding in Haskell with Cassava](https://www.stackbuilders.com/insights/csv-encoding-decoding/) to be an excellent resource but in need of some TLC to get the most from it.
 
 Issues include that the referenced [link](https://www.data.gov/app/uploads/2016/02/opendatasites.cs) to the `opendatasites.csv` dataset used as test data is broken.
 
-This repository contains a working version of the code described in the [article](https://www.stackbuilders.com/insights/csv-encoding-decoding/) and describes two methods for running it: A) cloning the repository and B) manually.
+This repository contains a working version of the code described in the [article](https://www.stackbuilders.com/insights/csv-encoding-decoding/) and describes two methods for running it: A) via cloning the repository and B) manually.
 
-## Configure using git clone
+## 2. A) Configure using git clone
 
 ### Clone the repository
 
@@ -33,7 +33,7 @@ ghcup list 2>/dev/null|grep '✔✔'|grep 'base'   # Show what version of ghc an
 
 - Change references to `build-depends:   base ^>=4.21.0.0` in `csvdemo.cabal` to match the version of ghc you are using.
 
-## Configure manually
+## 2. B) Configure manually
 
 ### Obtain a copy of the test data
 
@@ -83,13 +83,13 @@ The following dependencies need to be added to `csvdemo.cabal`:
 - text
 - vector
 
-## Build and run
+## 3. Build and run
 
 ```
 cabal build
 cabal run
 ```
 
-## Other references
+## 4. Other references
 
 - <http://etorreborre.blogspot.com/2019/09/processing-csv-files-in-haskell.html>
