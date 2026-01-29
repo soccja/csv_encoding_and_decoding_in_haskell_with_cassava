@@ -106,9 +106,9 @@ instance FromNamedRecord Item where
         Item
             <$> fmap Text.decodeLatin1 (m .: "Item")
             <*> m
-            .: "Link"
+                .: "Link"
             <*> m
-            .: "Type"
+                .: "Type"
 
 filterCountryItems ::
     Vector Item ->

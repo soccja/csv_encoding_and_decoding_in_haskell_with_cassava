@@ -1,0 +1,315 @@
+name,country,Link,Type,x,y,country_code,img_url
+Mexico,Mexico,http://datos.gob.mx/,International Country,-102.5763495,23.9353719,MX,https://www.countryflags.io/MX/shiny/64.png
+Canada,Canada,https://search.open.canada.ca/en/od/?sort=last_modified_tdt%20desc&page=1&search_text=&od-search-portal=Open%20Data&_ga=2.10238513.52197646.1601047586-517990023.1601047586,International Country,-98.14238137,61.46907615,CA,https://www.countryflags.io/CA/shiny/64.png
+Costa Rica,Costa Rica,,International Country,-84.1754231,9.965671127,CR,https://www.countryflags.io/CR/shiny/64.png
+Peru,Peru,http://www.datosperu.org/,International Country,-74.39180582,-9.191562905,PE,https://www.countryflags.io/PE/shiny/64.png
+Colombia,Colombia,https://www.datos.gov.co/browse?sortBy=newest&utf8=%E2%9C%93,International Country,-73.07773209,3.927213863,CO,https://www.countryflags.io/CO/shiny/64.png
+Chile,Chile,http://datos.gob.cl/dataset,International Country,-71.52064395,-39.04701431,CL,https://www.countryflags.io/CL/shiny/64.png
+Argentina,Argentina,https://datos.gob.ar/,International Country,-65.17536077,-35.44682149,AR,https://www.countryflags.io/AR/shiny/64.png
+Trinidad and Tobago,Trinidad and Tobago,http://data.gov.tt/,International Country,-61.33036691,10.42823709,TT,https://www.countryflags.io/TT/shiny/64.png
+Uruguay,Uruguay,https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/datos-y-estadisticas/datos-abiertos,International Country,-56.00327867,-32.78090437,UY,https://www.countryflags.io/UY/shiny/64.png
+Brazil,Brazil,http://dados.gov.br/,International Country,-53.05434004,-10.80677364,BR,https://www.countryflags.io/BR/shiny/64.png
+Sierra Leone,Sierra Leone,https://www.opendatasl.gov.sl/search/type/dataset,International Country,-11.79525743,8.530353726,SL,https://www.countryflags.io/SL/shiny/64.png
+Morocco,Morocco,https://morocco.opendataforafrica.org/data/#menu=topic,International Country,-8.420479545,29.8853947,MA,https://www.countryflags.io/MA/shiny/64.png
+Portugal,Portugal,http://www.dados.gov.pt/pt/inicio/inicio.aspx,International Country,-8.055765588,39.63404977,PT,https://www.countryflags.io/PT/shiny/64.png
+Ireland,Ireland,https://data.gov.ie/,International Country,-8.010236545,53.18059121,IE,https://www.countryflags.io/IE/shiny/64.png
+Spain,Spain,https://datos.gob.es/es/catalogo,International Country,-3.617020602,40.34865611,ES,https://www.countryflags.io/ES/shiny/64.png
+France,France,https://www.data.gouv.fr/fr/dashboard/,International Country,-2.880599191,42.4577181,FR,https://www.countryflags.io/FR/shiny/64.png
+United Kingdom,United Kingdom,http://data.gov.uk/,International Country,-2.853135395,53.91477348,GB,https://www.countryflags.io/GB/shiny/64.png
+Ghana,Ghana,https://ghana.opendataforafrica.org/,International Country,-1.236968556,7.928651813,GH,https://www.countryflags.io/GH/shiny/64.png
+Belgium,Belgium,https://data.gov.be/en/search/datasets,International Country,4.580831591,50.65244261,BE,https://www.countryflags.io/BE/shiny/64.png
+Netherlands,Netherlands,http://data.overheid.nl/,International Country,5.512217101,52.29870037,NL,https://www.countryflags.io/NL/shiny/64.png
+Tunisia,Tunisia,https://oecd-opsi.org/innovations/national-open-data-portal-of-tunisia/,International Country,9.534716121,34.17293904,TN,https://www.countryflags.io/TN/shiny/64.png
+Denmark,Denmark,https://www.opendata.dk/search,International Country,9.876372938,56.06393446,DK,https://www.countryflags.io/DK/shiny/64.png
+Germany,Germany,https://www.govdata.de/web/guest/daten,International Country,10.28848509,51.13372269,DE,https://www.countryflags.io/DE/shiny/64.png
+Italy,Italy,https://www.dati.gov.it/view-dataset,International Country,12.14078837,42.75118305,IT,https://www.countryflags.io/IT/shiny/64.png
+Austria,Austria,http://data.gv.at/,International Country,14.07615888,47.61394879,AT,https://www.countryflags.io/AT/shiny/64.png
+Norway,Norway,https://data.norge.no/datasets,International Country,15.46812612,69.1568564,NO,https://www.countryflags.io/NO/shiny/64.png
+Sweden,Sweden,https://www.dataportal.se/en/datasets?p=1&q=&s=2&t=20&f=,International Country,16.59626585,62.81148497,SE,https://www.countryflags.io/SE/shiny/64.png
+Slovakia,Slovakia,https://data.gov.sk/dataset,International Country,19.50765715,48.72671135,SK,https://www.countryflags.io/SK/shiny/64.png
+Greece,Greece,http://geodata.gov.gr/group,International Country,22.71981345,39.0667159,GR,https://www.countryflags.io/GR/shiny/64.png
+Romania,Romania,http://data.gov.ro/,International Country,24.94325249,45.85710104,RO,https://www.countryflags.io/RO/shiny/64.png
+South Africa,South Africa,https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/central,International Country,25.04801388,-28.94703326,ZA,https://www.countryflags.io/ZA/shiny/64.png
+Estonia,Estonia,http://pub.stat.ee/px-web.2001/Dialog/statfile1.asp,International Country,25.82472838,58.64369524,EE,https://www.countryflags.io/EE/shiny/64.png
+Finland,Finland,https://www.avoindata.fi/en,International Country,26.2117647,64.50409392,FI,https://www.countryflags.io/FI/shiny/64.png
+Moldova,Moldova,http://data.gov.md/,International Country,28.41048279,47.20367643,MD,https://www.countryflags.io/MD/shiny/64.png
+Ukraine,Ukraine,https://data.gov.ua/dataset,International Country,31.36953308,48.97301797,UA,https://www.countryflags.io/UA/shiny/64.png
+Tanzania,Tanzania,https://tanzania.opendataforafrica.org/,International Country,34.75298813,-6.257732721,TZ,https://www.countryflags.io/TZ/shiny/64.png
+Kenya,Kenya,https://www.opendata.go.ke/,International Country,37.79155529,0.595966252,KE,https://www.countryflags.io/KE/shiny/64.png
+Saudi Arabia,Saudi Arabia,http://www.data.gov.sa/,International Country,44.51636377,24.12328984,SA,https://www.countryflags.io/SA/shiny/64.png
+Bahrain,Bahrain,http://www.bahrain.bh/wps/portal/data/,International Country,50.5577,26.0667,BH,https://www.countryflags.io/BH/shiny/64.png
+United Arab Emirates,United Arab Emirates,http://opendata.nbs.gov.ae/,International Country,54.20671476,23.86863365,AE,https://www.countryflags.io/AE/shiny/64.png
+Oman,Oman,http://www.oman.om/opendata,International Country,56.09867282,20.61117437,OM,https://www.countryflags.io/OM/shiny/64.png
+India,India,http://data.gov.in/,International Country,79.59370376,22.92500641,IN,https://www.countryflags.io/IN/shiny/64.png
+Russia,Russia,http://opengovdata.ru/,International Country,96.87522326,61.98084075,RU,https://www.countryflags.io/RU/shiny/64.png
+Singapore,Singapore,http://data.gov.sg/,International Country,103.8538748,1.294979325,SG,https://www.countryflags.io/SG/shiny/64.png
+China,China,http://www.stats.gov.cn/english/,International Country,103.8836163,36.55506854,CN,https://www.countryflags.io/CN/shiny/64.png
+Hong Kong,Hong Kong,http://www.gov.hk/en/theme/psi/datasets/,International Country,114.1694,22.3193,HK,https://www.countryflags.io/HK/shiny/64.png
+Indonesia,Indonesia,https://data.go.id/,International Country,117.4234076,-2.221737937,ID,https://www.countryflags.io/ID/shiny/64.png
+Philippines,Philippines,http://data.gov.ph/,International Country,122.9026724,11.76379936,PH,https://www.countryflags.io/PH/shiny/64.png
+Timor-Leste,Timor-Leste,http://www.transparency.gov.tl/,International Country,125.9663003,-8.767760362,TL,https://www.countryflags.io/TL/shiny/64.png
+Dem. Rep. Korea,Dem. Rep. Korea,http://www.data.go.kr/,International Country,127.1650168,40.14302086,KR,https://www.countryflags.io/KR/shiny/64.png
+Australia,Australia,http://data.gov.au/,International Country,134.5027755,-25.73065478,AU,https://www.countryflags.io/AU/shiny/64.png
+Japan,Japan,https://www.data.go.jp/,International Country,138.0649621,37.66311081,JP,https://www.countryflags.io/JP/shiny/64.png
+New Zealand,New Zealand,http://www.data.govt.nz/,International Country,172.7019259,-41.66257876,NZ,https://www.countryflags.io/NZ/shiny/64.png
+British Columbia,Canada,http://www.data.gov.bc.ca/,International Regional,-125.002441,55.001251,CA,https://www.countryflags.io/CA/shiny/64.png
+Nanaimo,Canada,http://www.nanaimo.ca/datafeeds,International Regional,-123.9379719,49.1637594,CA,https://www.countryflags.io/CA/shiny/64.png
+Saanich,Canada,http://www.saanich.ca/data/catalogue/index.php,International Regional,-123.3764946,48.4594315,CA,https://www.countryflags.io/CA/shiny/64.png
+British Columbia Local Government,Canada,http://www.civicinfo.bc.ca/,International Regional,-123.3684762,48.4178785,CA,https://www.countryflags.io/CA/shiny/64.png
+Vancouver,Canada,http://data.vancouver.ca/,International Regional,-123.1139529,49.2608724,CA,https://www.countryflags.io/CA/shiny/64.png
+District of North Vancouver,Canada,http://geoweb.dnv.org/data/,International Regional,-123.0780208,49.33612,CA,https://www.countryflags.io/CA/shiny/64.png
+Prince George,Canada,http://princegeorge.ca/cityservices/online/odc/Pages/Documents.aspx,International Regional,-122.742183,53.908527,CA,https://www.countryflags.io/CA/shiny/64.png
+County of Grand Prairie (CA),Canada,http://www.countygp.ab.ca/EN/main/community/maps-gis/open-data/data.html,International Regional,-118.811695,55.174811,CA,https://www.countryflags.io/CA/shiny/64.png
+North Okanagan,Canada,http://www.rdno.ca/index.php/maps/digital-data,International Regional,-118.7147708,50.4164846,CA,https://www.countryflags.io/CA/shiny/64.png
+Alberta,Canada,http://data.alberta.ca/,International Regional,-115.002136,55.001251,CA,https://www.countryflags.io/CA/shiny/64.png
+Red Deer,Canada,http://www.reddeer.ca/City+Government/City+Services+and+Departments/Information+Technology+Services/Open+Data/About.htm,International Regional,-113.818359,52.269838,CA,https://www.countryflags.io/CA/shiny/64.png
+Edmonton,Canada,http://data.edmonton.ca/,International Regional,-113.507996,53.535411,CA,https://www.countryflags.io/CA/shiny/64.png
+Medicine Hat,Canada,http://data.medicinehat.ca/,International Regional,-110.679016,50.04303,CA,https://www.countryflags.io/CA/shiny/64.png
+Saskatoon,Canada,http://www.saskatoon.ca/DEPARTMENTS/Corporate%20Services/Corporate%20Information%20Services/OpenData/Pages/OpenData.aspx,International Regional,-106.660767,52.131802,CA,https://www.countryflags.io/CA/shiny/64.png
+Regina,Canada,http://openregina.cloudapp.net/,International Regional,-104.61731,50.44876,CA,https://www.countryflags.io/CA/shiny/64.png
+Sutton,United Kingdom,https://www.sutton.gov.uk/index.aspx?articleid=15338,International Regional,-100.6432359,30.5672947,GB,https://www.countryflags.io/GB/shiny/64.png
+Waterloo,Canada,http://opendata.waterloo.ca/,International Regional,-92.3329637,42.4979693,CA,https://www.countryflags.io/CA/shiny/64.png
+Ontario,Canada,http://www.ontario.ca/government/government-ontario-open-data,International Regional,-86.000977,50.000678,CA,https://www.countryflags.io/CA/shiny/64.png
+Guelph,Canada,http://guelph.ca/services.cfm?itemid=78870&smocid=1550,International Regional,-80.2493276,43.5460516,CA,https://www.countryflags.io/CA/shiny/64.png
+Hamilton,Canada,http://www.hamilton.ca/ProjectsInitiatives/OpenData/,International Regional,-79.8728583,43.2560802,CA,https://www.countryflags.io/CA/shiny/64.png
+Region of Peel,Canada,http://opendata.peelregion.ca/,International Regional,-79.7090023,43.6474732,CA,https://www.countryflags.io/CA/shiny/64.png
+Mississauga,Canada,http://www.mississauga.ca/portal/residents/publicationsopendatacatalogue,International Regional,-79.645729,43.590338,CA,https://www.countryflags.io/CA/shiny/64.png
+Toronto,Canada,http://www.toronto.ca/open,International Regional,-79.3839347,43.6534817,CA,https://www.countryflags.io/CA/shiny/64.png
+Niagara Region,Canada,http://www.niagararegion.ca/government/opendata/default.aspx,International Regional,-79.3098089,43.0631891,CA,https://www.countryflags.io/CA/shiny/64.png
+Niagara Falls,Canada,http://www.niagarafalls.ca/services/open/data,International Regional,-79.0614686,43.08436,CA,https://www.countryflags.io/CA/shiny/64.png
+Lima,Peru,http://www.munlima.gob.pe/datos-abiertos-mml.html,International Regional,-77.05200795,-12.04606682,PE,https://www.countryflags.io/PE/shiny/64.png
+Ottawa,Canada,http://www.guardian.co.uk/world-government-data/search?facet_source_title=ottawa.ca,International Regional,-75.70196116,45.41864266,CA,https://www.countryflags.io/CA/shiny/64.png
+Montreal,Canada,http://donnees.ville.montreal.qc.ca/,International Regional,-73.6103642,45.4972159,CA,https://www.countryflags.io/CA/shiny/64.png
+Quebec (Province),Canada,http://data.gouv.qc.ca/?node=/accueil,International Regional,-73.079475,47.945618,CA,https://www.countryflags.io/CA/shiny/64.png
+Quebec (City),Canada,http://donnees.ville.quebec.qc.ca/,International Regional,-71.2352226,46.8259601,CA,https://www.countryflags.io/CA/shiny/64.png
+Fredericton,Canada,http://www.fredericton.ca/en/citygovernment/DataMain.asp,International Regional,-66.645813,45.966425,CA,https://www.countryflags.io/CA/shiny/64.png
+Halifax,Canada,https://www.halifaxopendata.ca/,International Regional,-63.5859487,44.648618,CA,https://www.countryflags.io/CA/shiny/64.png
+"Misiones Province, Argentina",Argentina,http://www.datos.misiones.gov.ar/,International Regional,-62.26398514,-38.7412777,AR,https://www.countryflags.io/AR/shiny/64.png
+Buenos Aires,Argentina,http://data.buenosaires.gob.ar/,International Regional,-58.39947723,-34.60055575,AR,https://www.countryflags.io/AR/shiny/64.png
+Montevideo,Uruguay,http://www.montevideo.gub.uy/institucional/datos-abiertos/introduccion,International Regional,-56.17299815,-34.85609571,UY,https://www.countryflags.io/UY/shiny/64.png
+Novo Hamburgo,Brazil,https://dados.novohamburgo.rs.gov.br//,International Regional,-51.1429035,-29.6905705,BR,https://www.countryflags.io/BR/shiny/64.png
+Sao Paulo,Brazil,http://www.governoaberto.sp.gov.br/view/,International Regional,-46.6333824,-23.5506507,BR,https://www.countryflags.io/BR/shiny/64.png
+Dailan,China,http://zwgk.dl.gov.cn/default.jse,International Regional,-42.3547457,-21.1288679,CN,https://www.countryflags.io/CN/shiny/64.png
+Brazilian Federal Senate,Brazil,http://dadosabertos.senado.gov.br/,International Regional,-47.887827,-15.801622,BR,https://www.countryflags.io/BR/shiny/64.png
+Galicia,Spain,http://abertos.xunta.es/portada/,International Regional,-7.863112,42.61946,ES,https://www.countryflags.io/ES/shiny/64.png
+Italian Parliament,Italy,http://dati.camera.it/it/,International Regional,-7.254486648,52.6546901,IT,https://www.countryflags.io/IT/shiny/64.png
+Fingal,Ireland,http://data.fingal.ie/,International Regional,-6.224980209,53.49422125,IE,https://www.countryflags.io/IE/shiny/64.png
+Asturias,Spain,http://risp.asturias.es/catalogo/index.html,International Regional,-5.854145745,43.2710878,ES,https://www.countryflags.io/ES/shiny/64.png
+Junta de Castilla y LeÜn,Spain,http://www.datosabiertos.jcyl.es/,International Regional,-5.490922,42.596622,ES,https://www.countryflags.io/ES/shiny/64.png
+North Devon Council,United Kingdom,http://www.northdevon.gov.uk/index/lgcl_council_government_and_democracy/nonlgcl_open_data.htm,International Regional,-4.0591466,51.0802659,GB,https://www.countryflags.io/GB/shiny/64.png
+Allerdale,United Kingdom,http://datacatalogs.org/catalog/allerdale,International Regional,-3.252788011,54.70888095,GB,https://www.countryflags.io/GB/shiny/64.png
+Great Manchester,United Kingdom,http://www.datagm.org.uk/,International Regional,-3.054914187,53.80672975,GB,https://www.countryflags.io/GB/shiny/64.png
+Wyre Council,United Kingdom,http://www.wyre.gov.uk/opendata,International Regional,-3.0119337,53.874906,GB,https://www.countryflags.io/GB/shiny/64.png
+Castilla-La Mancha,Spain,http://opendata.jccm.es/,International Regional,-2.6232332,39.4177902,ES,https://www.countryflags.io/ES/shiny/64.png
+Trafford Council,United Kingdom,http://www.trafford.gov.uk/opendata/,International Regional,-2.3388814,53.4039235,GB,https://www.countryflags.io/GB/shiny/64.png
+Salford City Council,United Kingdom,http://www.salford.gov.uk/opendata.htm,International Regional,-2.2718561,53.4851727,GB,https://www.countryflags.io/GB/shiny/64.png
+Manchester,United Kingdom,http://www.manchester.gov.uk/info/500215/open_data,International Regional,-2.2451148,53.4794892,GB,https://www.countryflags.io/GB/shiny/64.png
+Euskadi (Basque Country),Spain,http://opendata.euskadi.net/,International Regional,-1.9772285,43.3215352,ES,https://www.countryflags.io/ES/shiny/64.png
+Birmingham,United Kingdom,http://www.birmingham.gov.uk/open-data,International Regional,-1.9026911,52.4796992,GB,https://www.countryflags.io/GB/shiny/64.png
+Loire-Atlantique,France,http://data.loire-atlantique.fr/,International Regional,-1.872746121,47.34816145,FR,https://www.countryflags.io/FR/shiny/64.png
+Navarre,Spain,http://www.navarra.es/home_es/Open-Data/,International Regional,-1.830787683,42.61254875,ES,https://www.countryflags.io/ES/shiny/64.png
+Lichfield,United Kingdom,http://lichfielddc.gov.uk/,International Regional,-1.8275286,52.6843696,GB,https://www.countryflags.io/GB/shiny/64.png
+Rennes,France,http://www.data.rennes-metropole.fr/,International Regional,-1.6800198,48.1113387,FR,https://www.countryflags.io/FR/shiny/64.png
+Pamplona,Spain,http://pamplona.es/verPagina.asp?IdPag=1519&Idioma=1,International Regional,-1.6442556,42.8184538,ES,https://www.countryflags.io/ES/shiny/64.png
+Nantes,France,http://data.nantes.fr/,International Regional,-1.5541362,47.2186371,FR,https://www.countryflags.io/FR/shiny/64.png
+Warwickshire,United Kingdom,http://www.guardian.co.uk/world-government-data/search?facet_source_title=opendata.warwickshire.gov.uk,International Regional,-1.546785787,52.32130635,GB,https://www.countryflags.io/GB/shiny/64.png
+La Rochelle,France,http://www.opendata.larochelle.fr/,International Regional,-1.1520434,46.1591126,FR,https://www.countryflags.io/FR/shiny/64.png
+Zaragoza,Spain,http://www.zaragoza.es/ciudad/risp/,International Regional,-0.8809428,41.6521342,ES,https://www.countryflags.io/ES/shiny/64.png
+Aragon,Spain,http://opendata.aragon.es/,International Regional,-0.7639373,41.3787291,ES,https://www.countryflags.io/ES/shiny/64.png
+Aquitaine and Gironde,France,http://datalocale.fr/,International Regional,-0.605126444,44.88374595,FR,https://www.countryflags.io/FR/shiny/64.png
+Windsor,Canada,http://www.citywindsor.ca/opendata/pages/open-data-catalogue.aspx,International Regional,-0.604139743,51.48379805,CA,https://www.countryflags.io/CA/shiny/64.png
+Angers,France,http://data.angers.fr/,International Regional,-0.5515588,47.4739884,FR,https://www.countryflags.io/FR/shiny/64.png
+Surrey,Canada,http://www.surrey.ca/city-services/658.aspx,International Regional,-122.862727,49.183435,CA,https://www.countryflags.io/CA/shiny/64.png
+London,United Kingdom,http://www.london.ca/d.aspx?s=/Open_Data/Data_Catalogue.htm,International Regional,-0.118667702,51.50194059,GB,https://www.countryflags.io/GB/shiny/64.png
+London,United Kingdom,http://www.guardian.co.uk/world-government-data/search?facet_source_title=data.london.gov.uk,International Regional,-0.118667702,51.50194059,GB,https://www.countryflags.io/GB/shiny/64.png
+Redbridge,United Kingdom,http://data.redbridge.gov.uk/,International Regional,0.0454097,51.5763203,GB,https://www.countryflags.io/GB/shiny/64.png
+Le Mans,France,http://www.lemans.fr/page.do?t=2&uuid=16CB26C7-550EA533-5AE8381B-D7A64AF8,International Regional,0.1967379,48.0073498,FR,https://www.countryflags.io/FR/shiny/64.png
+Open Kent,United Kingdom,http://www.openkent.org.uk/,International Regional,0.345480807,51.42246455,GB,https://www.countryflags.io/GB/shiny/64.png
+Lleida,Spain,http://cartolleida.paeria.es/lleidaoberta/inici.aspx,International Regional,0.6267842,41.6147605,ES,https://www.countryflags.io/ES/shiny/64.png
+Kent,United Kingdom,http://www.kent.gov.uk/your_council/open_data.aspx,International Regional,0.7105077,51.2474823,GB,https://www.countryflags.io/GB/shiny/64.png
+Toulouse,France,http://data.grandtoulouse.fr/,International Regional,1.4442469,43.6044622,FR,https://www.countryflags.io/FR/shiny/64.png
+Terrassa,Spain,http://opendata.terrassa.cat/,International Regional,2.0102442,41.5629885,ES,https://www.countryflags.io/ES/shiny/64.png
+Barcelona,Spain,http://w20.bcn.cat/opendata/,International Regional,2.1774322,41.3828939,ES,https://www.countryflags.io/ES/shiny/64.png
+Hauts-de-Seine,France,http://opendata.hauts-de-seine.net/,International Regional,2.198641222,48.8401859,FR,https://www.countryflags.io/FR/shiny/64.png
+Badalona,Spain,http://badalona.cat/portalWeb/badalona.portal?_nfpb=true&_pageLabel=opendata,International Regional,2.248254,41.4493539,ES,https://www.countryflags.io/ES/shiny/64.png
+Organization for Economic Cooperation and Development (OECD),France,http://stats.oecd.org/,International Regional,2.302753,48.850329,FR,https://www.countryflags.io/FR/shiny/64.png
+Paris,France,http://opendata.paris.fr/opendata/jsp/site/Portal.jsp,International Regional,2.331389467,48.86863879,FR,https://www.countryflags.io/FR/shiny/64.png
+Balearic Islands,Spain,http://www.caib.es/caibdatafront/,International Regional,2.880430533,39.6134018,ES,https://www.countryflags.io/ES/shiny/64.png
+Montpellier,France,http://opendata.montpelliernumerique.fr/,International Regional,3.8767337,43.6112422,FR,https://www.countryflags.io/FR/shiny/64.png
+Antwerp,France,http://opendata.antwerpen.be/,International Regional,4.3997081,51.2211097,FR,https://www.countryflags.io/FR/shiny/64.png
+Rotterdam,Netherlands,http://rotterdamopendata.nl,International Regional,4.4631727,51.9228958,NL,https://www.countryflags.io/NL/shiny/64.png
+SaŽne-et-Loire,France,http://www.opendata71.fr/,International Regional,4.620844,46.648998,FR,https://www.countryflags.io/FR/shiny/64.png
+Alkmaar,Netherlands,http://www.alkmaar.nl/opendata,International Regional,4.7503798,52.6312592,NL,https://www.countryflags.io/NL/shiny/64.png
+Amsterdam,Netherlands,http://www.os.amsterdam.nl/,International Regional,4.914694317,52.35191455,NL,https://www.countryflags.io/NL/shiny/64.png
+Amsterdam,Netherlands,http://maps.amsterdam.nl/open_geodata/,International Regional,4.914694317,52.35191455,NL,https://www.countryflags.io/NL/shiny/64.png
+Langley,Canada,http://www.tol.ca/Services-Contact/Open-Data/Open-Data-Catalogue,International Regional,-122.659149,49.103058,CA,https://www.countryflags.io/CA/shiny/64.png
+Moers,Germany,http://www.offenedaten.moers.de/,International Regional,6.62843,51.451283,DE,https://www.countryflags.io/DE/shiny/64.png
+Enschede,Netherlands,http://opendata.enschede.nl/,International Regional,6.870595664,52.22336325,NL,https://www.countryflags.io/NL/shiny/64.png
+Rheinland Pfalz,Germany,http://www.daten.rlp.de/,International Regional,7.310646,49.9531599,DE,https://www.countryflags.io/DE/shiny/64.png
+Turin,Italy,http://www.comune.torino.it/aperto,International Regional,7.6824892,45.0677551,IT,https://www.countryflags.io/IT/shiny/64.png
+Piedmont,Italy,http://www.dati.piemonte.it/,International Regional,7.829717,45.101223,IT,https://www.countryflags.io/IT/shiny/64.png
+Zurich,Switzerland,http://data.stadt-zuerich.ch/content/portal/de/index/ogd/daten.html,International Regional,8.5423328,47.3723941,CH,https://www.countryflags.io/CH/shiny/64.png
+Bremen,Germany,http://www.daten.bremen.de/,International Regional,8.8071646,53.0758196,DE,https://www.countryflags.io/DE/shiny/64.png
+Sardinia,Italy,http://www.sardegnageoportale.it/index.html,International Regional,9.097753807,40.06160405,IT,https://www.countryflags.io/IT/shiny/64.png
+Milan,Italy,http://dati.comune.milano.it/,International Regional,9.1905,45.4668,IT,https://www.countryflags.io/IT/shiny/64.png
+Lombardy,Italy,https://dati.lombardia.it/,International Regional,9.768893,45.6209,IT,https://www.countryflags.io/IT/shiny/64.png
+Vorarlberg,Austria,http://data.vorarlberg.gv.at/,International Regional,9.9166667,47.25,AT,https://www.countryflags.io/AT/shiny/64.png
+Hamburg,Germany,http://daten.hamburg.de/,International Regional,10.0099133,53.5437641,DE,https://www.countryflags.io/DE/shiny/64.png
+Aarhus,Denmark,http://www.odaa.dk/,International Regional,10.2134046,56.1496278,DK,https://www.countryflags.io/DK/shiny/64.png
+Lucca,Italy,http://opendata.provincia.lucca.it/,International Regional,10.45315184,44.0176138,IT,https://www.countryflags.io/IT/shiny/64.png
+Trento,Italy,http://www.territorio.provincia.tn.it/portal/server.pt?open=512&objID=862&PageID=32157&mode=2&in_hi_userid=18720&cached=true,International Regional,11.1257601,46.0664228,IT,https://www.countryflags.io/IT/shiny/64.png
+Trentino,Italy,http://dati.trentino.it/,International Regional,11.1295431,46.102817,IT,https://www.countryflags.io/IT/shiny/64.png
+Tuscany,Italy,http://dati.toscana.it/,International Regional,11.1389204,43.4586541,IT,https://www.countryflags.io/IT/shiny/64.png
+Florence,Italy,http://dati.comune.firenze.it/,International Regional,11.2555757,43.7698712,IT,https://www.countryflags.io/IT/shiny/64.png
+Bologna,Italy,http://dati.comune.bologna.it/,International Regional,11.3430347,44.4936714,IT,https://www.countryflags.io/IT/shiny/64.png
+Emilia-Romagna Open Data,Italy,http://dati.emilia-romagna.it/,International Regional,11.344409,44.4919861,IT,https://www.countryflags.io/IT/shiny/64.png
+Tyrol,Austria,http://www.tirol.gv.at/applikationen/e-government/data/,International Regional,11.5261028,47.223193,AT,https://www.countryflags.io/AT/shiny/64.png
+Vicenza Geodata,Italy,http://www.comune.vicenza.it/uffici/dipgenpers/sistinf/sit/daticartografici.php,International Regional,11.545593,45.551144,IT,https://www.countryflags.io/IT/shiny/64.png
+Veneto,Italy,http://dati.veneto.it/,International Regional,11.8665254,45.6476663,IT,https://www.countryflags.io/IT/shiny/64.png
+Rostock,Germany,http://datacatalogs.org/catalog/rostock,International Regional,12.1286127,54.0924445,DE,https://www.countryflags.io/DE/shiny/64.png
+Venice,Italy,http://dati.venezia.it/,International Regional,12.3345898,45.4371908,IT,https://www.countryflags.io/IT/shiny/64.png
+Leipzig,Germany,http://www.apileipzig.de/,International Regional,12.3747329,51.3406321,DE,https://www.countryflags.io/DE/shiny/64.png
+Italy Senate,Italy,http://dati.senato.it/,International Regional,12.4748472,41.8991328,IT,https://www.countryflags.io/IT/shiny/64.png
+Chamber of Deputies,Italy,http://dati.camera.it/it/,International Regional,12.4787076,41.9017297,IT,https://www.countryflags.io/IT/shiny/64.png
+Rome,Italy,http://www.opendata.provincia.roma.it/,International Regional,12.48131256,41.89790149,IT,https://www.countryflags.io/IT/shiny/64.png
+Udine,Italy,http://www.comune.udine.it/opencms/opencms/release/ComuneUdine/comune/Bilanci_comunali/open_data,International Regional,13.2358377,46.0634632,IT,https://www.countryflags.io/IT/shiny/64.png
+Berlin,Germany,http://daten.berlin.de/,International Regional,13.39960276,52.52376452,DE,https://www.countryflags.io/DE/shiny/64.png
+Linz,Austria,http://data.linz.gv.at/,International Regional,14.286198,48.3059078,AT,https://www.countryflags.io/AT/shiny/64.png
+OpenAid.se,Sweden,http://openaid.se/,International Regional,14.895717,61.608467,SE,https://www.countryflags.io/SE/shiny/64.png
+Graz,Austria,http://data.graz.gv.at/,International Regional,15.4382786,47.0708678,AT,https://www.countryflags.io/AT/shiny/64.png
+Niederosterreich,Austria,http://www.noe.gv.at/noe/Open-Government-Data/Open-Government-Data.html,International Regional,16.154988,48.129237,AT,https://www.countryflags.io/AT/shiny/64.png
+Vienna,Austria,http://data.wien.gv.at/,International Regional,16.3646931,48.20196114,AT,https://www.countryflags.io/AT/shiny/64.png
+Puglia,Italy,http://www.dati.puglia.it/,International Regional,16.6210027,40.9842539,IT,https://www.countryflags.io/IT/shiny/64.png
+Bari,Italy,http://opendata.comune.bari.it/,International Regional,16.8620293,41.1257843,IT,https://www.countryflags.io/IT/shiny/64.png
+Stockholm,Sweden,http://open.stockholm.se/,International Regional,18.09538887,59.35270581,SE,https://www.countryflags.io/SE/shiny/64.png
+InGrid (Germany),Germany,https://www.ingrid-oss.eu/latest/,International Regional,13.437104,52.507821,DE,https://www.countryflags.io/DE/shiny/64.png
+European Union,EU,http://open-data.europa.eu/,International Regional,23.3216264,42.6788082,EU,https://www.countryflags.io/EU/shiny/64.png
+Tampere,Finland,http://tampere.fi/avoindata,International Regional,23.7603118,61.4980214,FI,https://www.countryflags.io/FI/shiny/64.png
+Helsinki,Finland,http://www.hri.fi/en/about/open-data/,International Regional,24.93218048,60.17750923,FI,https://www.countryflags.io/FI/shiny/64.png
+Jyv_skyl_,Finland,http://data.jyvaskyla.fi/,International Regional,25.781818,62.233012,FI,https://www.countryflags.io/FI/shiny/64.png
+Library of the National Congress,Chile,http://datos.bcn.cl/es/,International Regional,-72.014945,-36.145576,CL,https://www.countryflags.io/CL/shiny/64.png
+Ministry of Finances,Russia,http://www1.minfin.ru/ru/,International Regional,37.6036,55.768016,RU,https://www.countryflags.io/RU/shiny/64.png
+Open UN-Habitat Transparency Initiative,UN,http://open.unhabitat.org/,International Regional,36.81818,-1.23268,UN,
+Russian Open Budget,Russia,http://budget.gov.ru/data/opendata,International Regional,97.9,61.98,RU,https://www.countryflags.io/RU/shiny/64.png
+Russian Open Police,Russia,http://data.openpolice.ru/,International Regional,96.9,61.8,RU,https://www.countryflags.io/RU/shiny/64.png
+Moscow,Russia,http://data.mos.ru/,International Regional,37.61357697,55.75410998,RU,https://www.countryflags.io/RU/shiny/64.png
+Catalonya,Spain,http://dadesobertes.gencat.cat/,International Regional,41.847762,1.473112,ES,https://www.countryflags.io/ES/shiny/64.png
+Victoria,Australia,http://www.data.vic.gov.au/,International Regional,144.806268,-37.0627,AU,https://www.countryflags.io/AU/shiny/64.png
+Open Government (Russia),Russia,http://opendata.bigovernment.ru/results/,International Regional,95.9,61.98,RU,https://www.countryflags.io/RU/shiny/64.png
+World Bank,United States,http://data.worldbank.org/,International Regional,-77.037422,38.894061,US,https://www.countryflags.io/US/shiny/64.png
+United Nations,UN,http://data.un.org/,International Regional,120.9846145,14.5825457,UN,
+Western Australia NewSLIP,Australia,https://www2.landgate.wa.gov.au/web/guest/slipstream-e-news,International Regional,122.217435,-25.288388,AU,https://www.countryflags.io/AU/shiny/64.png
+Seoul,Dem. Rep. Korea,http://data.seoul.go.kr/,International Regional,126.9977851,37.56829496,KR,https://www.countryflags.io/KR/shiny/64.png
+South Australia,Australia,http://data.sa.gov.au,International Regional,135.6301212,-30.5343665,AU,https://www.countryflags.io/AU/shiny/64.png
+South Australia Spatial Planning,Australia,http://www.planning.sa.gov.au/index.cfm?objectid=1C5C4F6F-96B8-CC2B-67DE3073BF2AE0EC,International Regional,135.65,-30.535,AU,https://www.countryflags.io/AU/shiny/64.png
+Shizuoka Prefecture(Shizuoka),Japan,http://open-data.pref.shizuoka.jp/htdocs/,International Regional,138.38299,34.979149,JP,https://www.countryflags.io/JP/shiny/64.png
+METI,Japan,http://datameti.go.jp/,International Regional,139.7509058,35.672176,JP,https://www.countryflags.io/JP/shiny/64.png
+Queensland,Australia,https://data.qld.gov.au/,International Regional,144.5844903,-22.1646782,AU,https://www.countryflags.io/AU/shiny/64.png
+Tasmania Spatial Data Work,Australia,http://www.dpipwe.tas.gov.au/sif,International Regional,147.173477,-41.470343,AU,https://www.countryflags.io/AU/shiny/64.png
+Merton Council,United Kingdom,http://www.merton.gov.uk/council/dp-foi/opendata.htm,International Regional,147.2639242,-42.8486868,GB,https://www.countryflags.io/GB/shiny/64.png
+New South Wales,Australia,http://data.nsw.gov.au/,International Regional,147.2869493,-31.8759835,AU,https://www.countryflags.io/AU/shiny/64.png
+Australian Capital Territory,Australia,https://www.data.act.gov.au/,International Regional,149.0026942,-35.4883502,AU,https://www.countryflags.io/AU/shiny/64.png
+Australian National Data Service,Australia,http://researchdata.ands.org.au/,International Regional,149.11802,-35.284998,AU,https://www.countryflags.io/AU/shiny/64.png
+Mosman Council,Australia,http://data.mosman.nsw.gov.au/,International Regional,151.2413547,-33.8252237,AU,https://www.countryflags.io/AU/shiny/64.png
+CSIRO,Australia,https://data.csiro.au/dap/home?execution=e1s1,International Regional,151.727973,-32.8838341,AU,https://www.countryflags.io/AU/shiny/64.png
+Brisbane,Australia,http://data.brisbane.qld.gov.au/index.php/datasets/,International Regional,153.0234991,-27.4689682,AU,https://www.countryflags.io/AU/shiny/64.png
+Baden-W»rttemberg,Germany,http://opendata.service-bw.de/Seiten/default.aspx,International Regional,8.227455,48.75669,DE,https://www.countryflags.io/DE/shiny/64.png
+Baha Blanca,Argentina,http://bahiablanca.opendata.junar.com/home/,International Regional,-62.264962,-38.712357,AR,https://www.countryflags.io/AR/shiny/64.png
+Hawaii GIS,United States,http://gis.hicentral.com/,Other State Related,-155.4268897,19.58726775,US,https://www.countryflags.io/US/shiny/64.png
+Denver Regional Council,United States,http://data.opencolorado.org/group/drcog,Other State Related,-104.918321,39.736254,US,https://www.countryflags.io/US/shiny/64.png
+Texas Transparency,United States,http://www.texastransparency.org/opendata/index.php,Other State Related,-97.855035,30.304123,US,https://www.countryflags.io/US/shiny/64.png
+Missouri Accountability Portal,United States,http://mapyourtaxes.mo.gov/MAP/Portal/Default.aspx,Other State Related,-92.175109,38.571403,US,https://www.countryflags.io/US/shiny/64.png
+Illinois South Suburban Mayors and Managers,United States,https://data.illinois.gov/ssmma,Other State Related,-88.627404,37.965953,US,https://www.countryflags.io/US/shiny/64.png
+NY State Senate,United States,http://www.nysenate.gov/opendata/,Other State Related,-74.0186479,41.9347685,US,https://www.countryflags.io/US/shiny/64.png
+NY Department of Health,United States,https://health.data.ny.gov/,Other State Related,-73.836062,40.896323,US,https://www.countryflags.io/US/shiny/64.png
+New York State Data Center,United States,http://esd.ny.gov/NYSDataCenter.html,Other State Related,-73.767091,42.655903,US,https://www.countryflags.io/US/shiny/64.png
+Honolulu,United States,https://data.honolulu.gov/,US City or County,-157.8556764,21.304547,US,https://www.countryflags.io/US/shiny/64.png
+Portland,United States,http://civicapps.org/datasets/,US City or County,-122.6741949,45.5202471,US,https://www.countryflags.io/US/shiny/64.png
+San Francisco,United States,http://www.datasf.org/,US City or County,-122.4199061,37.7790262,US,https://www.countryflags.io/US/shiny/64.png
+San Mateo County,United States,https://data.smcgov.org/,US City or County,-122.3330573,37.496904,US,https://www.countryflags.io/US/shiny/64.png
+Seattle,United States,http://data.seattle.gov/,US City or County,-122.3300624,47.6038321,US,https://www.countryflags.io/US/shiny/64.png
+Palo Alto,United States,http://data.cityofpaloalto.org/,US City or County,-122.1598465,37.4443293,US,https://www.countryflags.io/US/shiny/64.png
+Los Angeles,United States,https://controllerdata.lacity.org/browse,US City or County,-118.2427666,34.0536909,US,https://www.countryflags.io/US/shiny/64.png
+Las Vegas,United States,https://opendata.lasvegasnevada.gov/,US City or County,-115.1485163,36.1672559,US,https://www.countryflags.io/US/shiny/64.png
+Scottsdale,United States,http://data.scottsdaleaz.gov/,US City or County,-111.9260184,33.4942189,US,https://www.countryflags.io/US/shiny/64.png
+Albuquerque,United States,http://www.cabq.gov/abq-data/,US City or County,-106.6509851,35.0841034,US,https://www.countryflags.io/US/shiny/64.png
+Gilpin County,United States,http://data.opencolorado.org/group/gilpin-county,US City or County,-105.5025219,39.8586654,US,https://www.countryflags.io/US/shiny/64.png
+Arvada,United States,http://arvada.org/opendata/,US City or County,-105.220743,39.8211225,US,https://www.countryflags.io/US/shiny/64.png
+Denver,United States,http://data.denvergov.org/,US City or County,-104.9848623,39.7392364,US,https://www.countryflags.io/US/shiny/64.png
+King County,United States,http://www.datakc.org/,US City or County,-100.2178972,33.588178,US,https://www.countryflags.io/US/shiny/64.png
+Weatherford,United States,http://tx-weatherford2.civicplus.com/index.aspx?NID=1448,US City or County,-97.7970748,32.7589648,US,https://www.countryflags.io/US/shiny/64.png
+Austin,United States,http://data.austintexas.gov/,US City or County,-97.7436995,30.2711286,US,https://www.countryflags.io/US/shiny/64.png
+Montgomery County,United States,https://data.montgomerycountymd.gov/,US City or County,-95.5065944,30.301949,US,https://www.countryflags.io/US/shiny/64.png
+Houston,United States,http://data.codeforhouston.com/,US City or County,-95.3676974,29.7589382,US,https://www.countryflags.io/US/shiny/64.png
+Kansas City,United States,https://data.kcmo.org/,US City or County,-94.5781416,39.100105,US,https://www.countryflags.io/US/shiny/64.png
+New Orleans,United States,http://data.nola.gov/,US City or County,-90.0701156,29.9499323,US,https://www.countryflags.io/US/shiny/64.png
+Madison,United States,https://data.cityofmadison.com/,US City or County,-89.3837613,43.074761,US,https://www.countryflags.io/US/shiny/64.png
+Rockford,United States,https://data.illinois.gov/rockford,US City or County,-89.093966,42.2713945,US,https://www.countryflags.io/US/shiny/64.png
+Champaign,United States,https://data.illinois.gov/champaign,US City or County,-88.2433829,40.1164205,US,https://www.countryflags.io/US/shiny/64.png
+Cook County (IL),United States,http://data.cookcountyil.gov/,US City or County,-87.756525,41.8197385,US,https://www.countryflags.io/US/shiny/64.png
+Chicago,United States,http://data.cityofchicago.org/,US City or County,-87.6244212,41.8755616,US,https://www.countryflags.io/US/shiny/64.png
+"Bloomington, Indiana",United States,https://data.bloomington.in.gov/,US City or County,-86.5342881,39.1670396,US,https://www.countryflags.io/US/shiny/64.png
+South Bend,United States,https://data.southbendin.gov/,US City or County,-86.2500066,41.6833813,US,https://www.countryflags.io/US/shiny/64.png
+Indianapolis/Marion County,United States,http://data.indy.gov/,US City or County,-86.1583502,39.7683331,US,https://www.countryflags.io/US/shiny/64.png
+Louisville,United States,http://portal.louisvilleky.gov/service/data,US City or County,-85.759407,38.2542376,US,https://www.countryflags.io/US/shiny/64.png
+Lexington,United States,http://www.lexingtonky.gov/index.aspx?page=416,US City or County,-84.4970393,38.0464066,US,https://www.countryflags.io/US/shiny/64.png
+Atlanta,United States,http://gis.atlantaga.gov/,US City or County,-84.3901849,33.7490987,US,https://www.countryflags.io/US/shiny/64.png
+Ann Arbor,United States,http://www.a2gov.org/data/,US City or County,-83.7312291,42.2681569,US,https://www.countryflags.io/US/shiny/64.png
+Open Door Kentucky,United States,http://opendoor.ky.gov/transparency/Pages/default.aspx,US City or County,-83.077221,37.134068,US,https://www.countryflags.io/US/shiny/64.png
+Asheville,United States,http://data.ashevillenc.gov/,US City or County,-82.5540161,35.6009498,US,https://www.countryflags.io/US/shiny/64.png
+Wellington (FL),United States,https://data.wellingtonfl.gov/,US City or County,-80.253611,26.63947,US,https://www.countryflags.io/US/shiny/64.png
+Raleigh,United States,http://www.raleighnc.gov/open/,US City or County,-78.6390989,35.7803977,US,https://www.countryflags.io/US/shiny/64.png
+Wake County,United States,http://www.wakegov.com/data/Pages/default.aspx,US City or County,-78.6118311,35.7979355,US,https://www.countryflags.io/US/shiny/64.png
+Baltimore,United States,http://data.baltimorecity.gov/,US City or County,-76.610759,39.2908816,US,https://www.countryflags.io/US/shiny/64.png
+Philadelphia,United States,http://www.opendataphilly.org/,US City or County,-75.1635262,39.9527237,US,https://www.countryflags.io/US/shiny/64.png
+New York City,United States,http://www.nyc.gov/data/,US City or County,-74.0060152,40.7127281,US,https://www.countryflags.io/US/shiny/64.png
+Burlington,United States,https://data.burlingtonvt.gov/,US City or County,-73.2135472,44.4762975,US,https://www.countryflags.io/US/shiny/64.png
+Providence,United States,https://data.providenceri.gov/,US City or County,-71.4128343,41.8239891,US,https://www.countryflags.io/US/shiny/64.png
+Somerville,United States,http://data.somervillema.gov/,US City or County,-71.0994968,42.3875968,US,https://www.countryflags.io/US/shiny/64.png
+Boston,United States,https://data.cityofboston.gov/,US City or County,-71.0582912,42.3602534,US,https://www.countryflags.io/US/shiny/64.png
+Boston Enterprise GIS,United States,http://www.cityofboston.gov/maps/,US City or County,-71.0582,42.36025,US,https://www.countryflags.io/US/shiny/64.png
+Belleville,United States,https://data.illinois.gov/belleville,US City or County,-89.988139,38.512355,US,https://www.countryflags.io/US/shiny/64.png
+Santa Cruz,United States,http://data.cityofsantacruz.com/,US City or County,-122.024994,36.972032,US,https://www.countryflags.io/US/shiny/64.png
+NC OpenBook,United States,http://www.ncopenbook.gov/NCOpenBook/,US City or County,-78.551675,35.746483,US,https://www.countryflags.io/US/shiny/64.png
+Hawaii,United States,http://data.hawaii.gov/,US State,-155.4268897,19.58726775,US,https://www.countryflags.io/US/shiny/64.png
+Oregon,United States,http://data.oregon.gov/,US State,-120.737257,43.9792797,US,https://www.countryflags.io/US/shiny/64.png
+California,United States,http://data.ca.gov/,US State,-118.7559974,36.7014631,US,https://www.countryflags.io/US/shiny/64.png
+Arizona,United States,http://openbooks.az.gov/app/transparency/index.html,US State,-111.7632755,34.395342,US,https://www.countryflags.io/US/shiny/64.png
+Utah,United States,http://www.utah.gov/data/,US State,-111.7143584,39.4225192,US,https://www.countryflags.io/US/shiny/64.png
+Montana,United States,https://data.datamontana.us/browse,US State,-109.6387579,47.3752671,US,https://www.countryflags.io/US/shiny/64.png
+New Mexico,United States,http://www.sunshineportalnm.com/,US State,-105.993007,34.5708167,US,https://www.countryflags.io/US/shiny/64.png
+Colorado,United States,http://www.colorado.gov/data/,US State,-105.6077167,38.7251776,US,https://www.countryflags.io/US/shiny/64.png
+South Dakota,United States,http://open.sd.gov/,US State,-100.348761,44.6471761,US,https://www.countryflags.io/US/shiny/64.png
+Nebraska,United States,http://www.nebraska.gov/data/,US State,-99.5873816,41.7370229,US,https://www.countryflags.io/US/shiny/64.png
+Texas,United States,http://www.texas.gov/en/Connect/Pages/open-data.aspx,US State,-99.5120986,31.8160381,US,https://www.countryflags.io/US/shiny/64.png
+Kansas,United States,http://www.kansas.gov/KanView/,US State,-98.5821872,38.27312,US,https://www.countryflags.io/US/shiny/64.png
+Oklahoma,United States,http://www.ok.gov/about/data.html,US State,-97.2684063,34.9550817,US,https://www.countryflags.io/US/shiny/64.png
+Minnesota,United States,http://mn.gov/portal/,US State,-94.6113288,45.9896587,US,https://www.countryflags.io/US/shiny/64.png
+Iowa,United States,http://data.iowa.gov/,US State,-93.3122705,41.9216734,US,https://www.countryflags.io/US/shiny/64.png
+Missouri,United States,http://data.mo.gov/,US State,-92.5617875,38.7604815,US,https://www.countryflags.io/US/shiny/64.png
+Louisiana,United States,http://wwwprd.doa.louisiana.gov/LaTrac/portal.cfm,US State,-92.007126,30.8703881,US,https://www.countryflags.io/US/shiny/64.png
+Illinois,United States,http://data.illinois.gov/,US State,-89.4337288,40.0796606,US,https://www.countryflags.io/US/shiny/64.png
+Alabama,United States,http://open.alabama.gov/,US State,-86.8295337,33.2588817,US,https://www.countryflags.io/US/shiny/64.png
+Tennessee,United States,http://www.tn.gov/opengov/,US State,-86.2820081,35.7730076,US,https://www.countryflags.io/US/shiny/64.png
+Indiana,United States,http://www.stats.indiana.edu/,US State,-86.1746933,40.3270127,US,https://www.countryflags.io/US/shiny/64.png
+Kentucky,United States,http://opendoor.ky.gov/search/Pages/spendingsearch.aspx,US State,-85.1551411,37.5726028,US,https://www.countryflags.io/US/shiny/64.png
+Michigan,United States,https://data.michigan.gov/,US State,-84.6824346,43.6211955,US,https://www.countryflags.io/US/shiny/64.png
+Michigan,United States,https://gis-michigan.opendata.arcgis.com/,US State,-83.676955,42.436887,US,https://www.countryflags.io/US/shiny/64.png
+Georgia,United States,http://www.open.georgia.gov/,US State,-83.1137366,32.3293809,US,https://www.countryflags.io/US/shiny/64.png
+Ohio,United States,http://transparency.ohio.gov/,US State,-82.6881395,40.2253569,US,https://www.countryflags.io/US/shiny/64.png
+Florida,United States,https://www.nconemap.gov/,US State,-81.4639835,27.7567667,US,https://www.countryflags.io/US/shiny/64.png
+North Carolina,United States,https://www.nconemap.gov/,US State,-79.0392919,35.6729639,US,https://www.countryflags.io/US/shiny/64.png
+Virginia,United States,http://data.virginia.gov,US State,-78.4927721,37.1232245,US,https://www.countryflags.io/US/shiny/64.png
+Washington,United States,http://data.wa.gov/,US State,-77.0365708,38.8949855,US,https://www.countryflags.io/US/shiny/64.png
+District of Columbia,United States,http://data.dc.gov/,US State,-76.98788325,38.89366125,US,https://www.countryflags.io/US/shiny/64.png
+Maryland,United States,https://opendata.maryland.gov/,US State,-76.9382069,39.5162234,US,https://www.countryflags.io/US/shiny/64.png
+Delaware,United States,https://data.delaware.gov/,US State,-75.4013315,38.6920451,US,https://www.countryflags.io/US/shiny/64.png
+New York,United States,https://data.ny.gov/,US State,-74.0060152,40.7127281,US,https://www.countryflags.io/US/shiny/64.png
+Connecticut,United States,https://data.ct.gov/,US State,-72.7342163,41.6500201,US,https://www.countryflags.io/US/shiny/64.png
+Vermont,United States,http://www.data.gov/open-gov/,US State,-72.5002608,44.5990718,US,https://www.countryflags.io/US/shiny/64.png
+Massachusetts,United States,https://wiki.state.ma.us/confluence/display/data/Open+Data+Initiative+Home,US State,-72.032366,42.3788774,US,https://www.countryflags.io/US/shiny/64.png
+New Hampshire,United States,,US State,-71.6553992,43.4849133,US,https://www.countryflags.io/US/shiny/64.png
+Rhode Island,United States,http://www.ri.gov/data/,US State,-71.5992372,41.7962409,US,https://www.countryflags.io/US/shiny/64.png
+Maine,United States,https://www.maine.gov/cgi-bin/data/data_search.pl,US State,-68.8590201,45.709097,US,https://www.countryflags.io/US/shiny/64.png
+Maine,United States,https://www.maine.gov/geolib/catalog.html#top,US State,-68.8590201,45.709097,US,https://www.countryflags.io/US/shiny/64.png
+North Dakota GIS Hub,United States,http://www.nd.gov/gis/,US State,-100.688233,46.776271,US,https://www.countryflags.io/US/shiny/64.png
