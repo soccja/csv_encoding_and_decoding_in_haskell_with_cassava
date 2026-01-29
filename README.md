@@ -4,7 +4,7 @@ Cassava library demo based on <https://www.stackbuilders.com/insights/csv-encodi
 
 ## Preamble
 
-I found [Encoding and decoding in Haskell with Cassava](https://www.stackbuilders.com/insights/csv-encoding-decoding/) to be an excellent resource but it needs some TLC to get the most from it.
+I found [Encoding and decoding in Haskell with Cassava](https://www.stackbuilders.com/insights/csv-encoding-decoding/) to be an excellent resource but in need of some TLC to get the most from it.
 
 Issues include that the referenced [link](https://www.data.gov/app/uploads/2016/02/opendatasites.cs) to the `opendatasites.csv` dataset used as test data is broken.
 
