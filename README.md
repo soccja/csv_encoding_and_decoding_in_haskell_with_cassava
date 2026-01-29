@@ -22,14 +22,10 @@ git clone https://github.com/soccja/csv_encoding_and_decoding_in_haskell_with_ca
 #### Determine installed and active base version
 
 ```
-ghcup list|grep '✔✔'   # Show what versions of ghc, cabal, ... are installed and active
+ghcup list 2>/dev/null|grep '✔✔'|grep 'base'   # Show what version of ghc and associated base are installed and active
 ```
 
-> ✔✔ ghc 9.12.2 base-4.21.0.0 hls-powered,2025-03-12  
-> ✔✔ cabal 3.16.1.0 latest  
-> ✔✔ hls 2.12.0.0  
-> ✔✔ stack 3.3.1  
-> ✔✔ ghcup 0.1.50.2 latest,recommended
+> ✔✔ ghc 9.12.2 base-4.21.0.0 hls-powered,2025-03-12
 
 #### Edit cabal configuration file
 
