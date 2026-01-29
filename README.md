@@ -8,6 +8,8 @@ I found [Encoding and decoding in Haskell with Cassava](https://www.stackbuilder
 
 Issues include that the referenced [link](https://www.data.gov/app/uploads/2016/02/opendatasites.cs) to the `opendatasites.csv` dataset used as test data is broken.
 
+This repository contains a working version of the code described in the [article](https://www.stackbuilders.com/insights/csv-encoding-decoding/) and describes two methods for running it: A) cloning the repository and B) manually.
+
 ## Configure using git clone
 
 ### Clone the repository
@@ -31,7 +33,7 @@ ghcup list 2>/dev/null|grep '✔✔'|grep 'base'   # Show what version of ghc an
 
 - Change references to `build-depends:   base ^>=4.21.0.0` in `csvdemo.cabal` to match the version of ghc you are using.
 
-## Configure 'manually'
+## Configure manually
 
 ### Obtain a copy of the test data
 
